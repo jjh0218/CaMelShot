@@ -1,0 +1,13 @@
+# ninja log v5
+0	34	0	clean	d763aa7a22fbb7dc
+1	949	675615192	CMakeFiles/opencv_jni_shared.dir/E_/android/CaMelShot/app/src/main/jni/OpenCV/pca_detect.cpp.o	d9eef3414ffadaf1
+951	1410	675615193	E:/android/CaMelShot/sdk/build/intermediates/cxx/Debug/3661323l/obj/x86/libopencv_jni_shared.so	a6b89004af572c8d
+0	34	0	clean	d763aa7a22fbb7dc
+0	33	0	clean	d763aa7a22fbb7dc
+3	919	675707645	CMakeFiles/opencv_jni_shared.dir/E_/android/CaMelShot/app/src/main/jni/OpenCV/pca_detect.cpp.o	d9eef3414ffadaf1
+920	1338	675707646	E:/android/CaMelShot/sdk/build/intermediates/cxx/Debug/3661323l/obj/x86/libopencv_jni_shared.so	a6b89004af572c8d
+0	36	0	clean	d763aa7a22fbb7dc
+4	965	675876431	CMakeFiles/opencv_jni_shared.dir/E_/android/CaMelShot/app/src/main/jni/OpenCV/pca_detect.cpp.o	d9eef3414ffadaf1
+965	1440	675876431	E:/android/CaMelShot/sdk/build/intermediates/cxx/Debug/3661323l/obj/x86/libopencv_jni_shared.so	a6b89004af572c8d
+3	1013	676239243	CMakeFiles/opencv_jni_shared.dir/E_/android/CaMelShot/app/src/main/jni/OpenCV/pca_detect.cpp.o	d9eef3414ffadaf1
+1013	2066	676239244	E:/android/CaMelShot/sdk/build/intermediates/cxx/Debug/3661323l/obj/x86/libopencv_jni_shared.so	a6b89004af572c8d

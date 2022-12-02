@@ -1,0 +1,15 @@
+# ninja log v5
+0	38	675171167	CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o	768d00917f5c927c
+38	137	675171167	libopencv_jni_shared.a	7a1f52aee62e275d
+1	750	675180249	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	622e6bb338c053eb
+751	1238	675180249	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	d4b6d6c2383225c7
+3	62	675180529	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	622e6bb338c053eb
+62	251	675180529	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	d4b6d6c2383225c7
+0	59	675180782	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	622e6bb338c053eb
+59	202	675180782	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	d4b6d6c2383225c7
+0	36	675180811	CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o	cf76145de5729ffa
+36	75	675180811	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	660bcccf6ebe1028
+1	940	675182047	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	622e6bb338c053eb
+940	1572	675182048	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	d4b6d6c2383225c7
+2	762	675182260	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	622e6bb338c053eb
+762	1254	675182260	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/x86_64/libopencv_jni_shared.so	d4b6d6c2383225c7

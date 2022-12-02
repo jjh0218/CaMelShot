@@ -1,0 +1,5 @@
+# ninja log v5
+1	2304	675179468	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	17d7942fcbbb7e93
+2307	3543	675179469	D:/AndroidStudioProjects/myProject_CAM/app/build/intermediates/cxx/Debug/1e3a4a2i/obj/arm64-v8a/libyolov5ncnn.so	67feef4d99ae1a73
+2	849	675182884	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	17d7942fcbbb7e93
+850	1272	675182885	D:/AndroidStudioProjects/myProject_CAM/app/build/intermediates/cxx/Debug/1e3a4a2i/obj/arm64-v8a/libyolov5ncnn.so	67feef4d99ae1a73

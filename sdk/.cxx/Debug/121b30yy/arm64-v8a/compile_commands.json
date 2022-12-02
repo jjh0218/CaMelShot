@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/AndroidStudioProjects/myProject_CAM/sdk/.cxx/Debug/121b30yy/arm64-v8a",
+  "command": "C:\\Users\\daeha\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/daeha/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/daeha/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dopencv_jni_shared_EXPORTS -isystem D:/AndroidStudioProjects/myProject_CAM/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=gnu++2a -fexceptions -fsigned-char -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\opencv_jni_shared.dir\\D_\\AndroidStudioProjects\\myProject_CAM\\app\\src\\main\\jni\\OpenCV\\pca_detect.cpp.o -c D:\\AndroidStudioProjects\\myProject_CAM\\app\\src\\main\\jni\\OpenCV\\pca_detect.cpp",
+  "file": "D:\\AndroidStudioProjects\\myProject_CAM\\app\\src\\main\\jni\\OpenCV\\pca_detect.cpp"
+}
+]

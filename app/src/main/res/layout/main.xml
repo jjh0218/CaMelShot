@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7px"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|top"
+            android:layout_margin="7px"
+            android:layout_weight="1"
+            android:background="@drawable/background_rect"
+            android:text="사진 가져오기"
+            android:textColor="@color/fontColor" />
+
+
+        <Button
+            android:id="@+id/buttonDetect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="7px"
+            android:layout_marginBottom="7px"
+            android:layout_weight="1"
+            android:background="@drawable/background_rect"
+            android:text="객체 검출"
+            android:textColor="@color/fontColor" />
+
+        <Button
+            android:id="@+id/buttonDetectGPU"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:layout_margin="7px"
+            android:layout_marginRight="7px"
+            android:layout_weight="1"
+            android:background="@drawable/background_rect"
+            android:text="외곽선 표시"
+            android:textColor="@color/fontColor" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnUploadImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top"
+            android:layout_margin="7px"
+            android:layout_weight="1"
+            android:background="@drawable/background_rect"
+            android:text="이미지 공유"
+            android:textColor="@color/fontColor" />
+
+        <Button
+            android:id="@+id/btnDownloadImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="7px"
+            android:layout_marginRight="7px"
+            android:layout_marginBottom="7px"
+            android:layout_weight="1"
+            android:background="@drawable/background_rect"
+            android:text="이미지 다운로드"
+            android:textColor="@color/fontColor" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/buttonCam"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@android:color/transparent"
+            android:scaleType="centerInside"
+            android:src="@drawable/camera">
+        </ImageButton>
+    </LinearLayout>
+</LinearLayout>

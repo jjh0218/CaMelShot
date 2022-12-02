@@ -1,0 +1,7 @@
+Executable : C:\Users\daeha\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\AndroidStudioProjects\myProject_CAM\app\.cxx\Debug\1e3a4a2i\arm64-v8a
+yolov5ncnn
+jvmArgs : 
+

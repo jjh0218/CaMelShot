@@ -1,0 +1,7 @@
+Executable : C:\Users\daeha\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\AndroidStudioProjects\myProject_CAM\sdk\.cxx\Debug\121b30yy\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+

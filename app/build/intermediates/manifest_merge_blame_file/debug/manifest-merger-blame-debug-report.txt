@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.SSRL.CaMelShot"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:8:5-64
+11-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:8:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:9:5-67
+12-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:9:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:10:5-80
+13-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:10:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:11:5-81
+14-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:12:5-81
+15-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:12:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:13:5-79
+16-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:13:22-76
+17    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+17-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:14:5-80
+17-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:14:22-77
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:15:5-60
+19-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:15:19-57
+20    <uses-feature
+20-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:16:5-94
+21        android:name="android.hardware.camera.autofocus"
+21-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:16:19-67
+22        android:required="false" />
+22-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:16:68-92
+23    <uses-feature
+23-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:17:5-90
+24        android:name="android.hardware.camera.front"
+24-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:17:19-63
+25        android:required="false" />
+25-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:17:64-88
+26    <uses-feature
+26-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:18:5-101
+27        android:name="android.hardware.camera.front.autofocus"
+27-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:18:19-73
+28        android:required="false" />
+28-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:18:75-99
+29
+30    <supports-screens
+30-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:19:5-23:37
+31        android:anyDensity="true"
+31-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:23:9-34
+32        android:largeScreens="true"
+32-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:22:9-36
+33        android:normalScreens="true"
+33-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:21:9-37
+34        android:resizeable="true"
+34-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:19:23-48
+35        android:smallScreens="true" />
+35-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:20:9-36
+36
+37    <application
+37-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:25:5-42:19
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.7.0] C:\Users\JJH\.gradle\caches\transforms-3\649450de57da20d095fe19b53290c445\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@drawable/appicon"
+41-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:27:9-41
+42        android:label="@string/app_name"
+42-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:26:9-41
+43        android:testOnly="true"
+44        android:theme="@style/Theme.AppCompat.NoActionBar" >
+44-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:28:9-59
+45        <activity
+45-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:29:9-36:20
+46            android:name="com.SSRL.CaMelShot.MainActivity"
+46-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:29:19-65
+47            android:exported="true"
+47-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:31:13-36
+48            android:label="@string/app_name" >
+48-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:30:19-51
+49            <intent-filter>
+49-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:32:13-35:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:33:17-69
+50-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:33:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:34:17-77
+52-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:34:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:37:9-41:20
+56            android:name="com.SSRL.CaMelShot.CamActivity"
+56-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:37:19-64
+57            android:configChanges="keyboardHidden|orientation"
+57-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:39:13-63
+58            android:screenOrientation="landscape" >
+58-->E:\android\CaMelShot\app\src\main\AndroidManifest.xml:38:13-50
+59        </activity>
+60        <activity
+60-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\JJH\.gradle\caches\transforms-3\69a585bea37245c294b9c3aea5973320\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\JJH\.gradle\caches\transforms-3\69a585bea37245c294b9c3aea5973320\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\JJH\.gradle\caches\transforms-3\69a585bea37245c294b9c3aea5973320\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\JJH\.gradle\caches\transforms-3\69a585bea37245c294b9c3aea5973320\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+64
+65        <meta-data
+65-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\JJH\.gradle\caches\transforms-3\ab45dbc799f8cc3e7713e037865f140c\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+66            android:name="com.google.android.gms.version"
+66-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\JJH\.gradle\caches\transforms-3\ab45dbc799f8cc3e7713e037865f140c\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+67            android:value="@integer/google_play_services_version" />
+67-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\JJH\.gradle\caches\transforms-3\ab45dbc799f8cc3e7713e037865f140c\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+71            android:authorities="com.SSRL.CaMelShot.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\JJH\.gradle\caches\transforms-3\368d9d149f69164dc4424c556e7b4278\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JJH\.gradle\caches\transforms-3\f256f1106d2e1c293522cdc356269dfe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JJH\.gradle\caches\transforms-3\f256f1106d2e1c293522cdc356269dfe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\JJH\.gradle\caches\transforms-3\f256f1106d2e1c293522cdc356269dfe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+79        </provider>
+80    </application>
+81
+82</manifest>

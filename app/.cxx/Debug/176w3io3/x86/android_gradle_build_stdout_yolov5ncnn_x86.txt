@@ -1,0 +1,4 @@
+ninja: Entering directory `D:\AndroidStudioProjects\CaMelShot\app\.cxx\Debug\176w3io3\x86'
+[1/2] Building CXX object CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[2/2] Linking CXX shared library D:\AndroidStudioProjects\CaMelShot\app\build\intermediates\cxx\Debug\176w3io3\obj\x86\libyolov5ncnn.so

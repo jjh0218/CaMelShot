@@ -1,0 +1,6 @@
+# ninja log v5
+0	787	675183069	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/CaMelShot/app/src/main/jni/OpenCV/pca_detect.cpp.o	da0a96ca9babb0d0
+788	1012	675183069	D:/AndroidStudioProjects/CaMelShot/sdk/build/intermediates/cxx/Debug/6x85b5v1/obj/armeabi-v7a/libopencv_jni_shared.so	8d58307e3cb48005
+0	6	0	clean	31635fb005c26d2d
+1	5	0	clean	31635fb005c26d2d
+0	7	0	clean	31635fb005c26d2d

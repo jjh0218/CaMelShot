@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\AndroidStudioProjects\myProject_CAM\sdk\.cxx\Debug\121b30yy\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o
+[2/2] Linking CXX shared library D:\AndroidStudioProjects\myProject_CAM\sdk\build\intermediates\cxx\Debug\121b30yy\obj\arm64-v8a\libopencv_jni_shared.so

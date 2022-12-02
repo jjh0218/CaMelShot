@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/myProject_CAM/sdk/.cxx/Debug/121b30yy/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+D:/AndroidStudioProjects/myProject_CAM/sdk/.cxx/Debug/121b30yy/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/myProject_CAM/sdk/.cxx/Debug/121b30yy/armeabi-v7a/CMakeFiles/rebuild_cache.dir

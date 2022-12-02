@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/android/CaMelShot/app/.cxx/Debug/1u411i3j/arm64-v8a",
+  "command": "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android30 --gcc-toolchain=C:/Users/JJH/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/JJH/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov5ncnn_EXPORTS -isystem E:/android/CaMelShot/app/src/main/jni/arm64-v8a/include/ncnn -isystem E:/android/CaMelShot/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=gnu++2a -frtti -fopenmp -static-openmp -frtti -O0 -fno-limit-debug-info  -fPIC -fno-exceptions -pthread -o CMakeFiles\\yolov5ncnn.dir\\yolov5ncnn_jni.cpp.o -c E:\\android\\CaMelShot\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+  "file": "E:\\android\\CaMelShot\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp"
+}
+]

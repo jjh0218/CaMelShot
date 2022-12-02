@@ -1,0 +1,6 @@
+# ninja log v5
+0	819	675183062	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	92660bbcce8d02eb
+821	1128	675183062	D:/AndroidStudioProjects/CaMelShot/app/build/intermediates/cxx/Debug/176w3io3/obj/armeabi-v7a/libyolov5ncnn.so	b86d691673f03f73
+0	6	0	clean	31635fb005c26d2d
+0	5	0	clean	31635fb005c26d2d
+0	8	0	clean	31635fb005c26d2d

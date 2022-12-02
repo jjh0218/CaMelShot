@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\AndroidStudioProjects\CaMelShot\app\.cxx\Debug\176w3io3\arm64-v8a'
+ninja: no work to do.

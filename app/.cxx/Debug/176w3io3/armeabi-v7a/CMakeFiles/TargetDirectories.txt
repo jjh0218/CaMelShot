@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/CaMelShot/app/.cxx/Debug/176w3io3/armeabi-v7a/CMakeFiles/yolov5ncnn.dir
+D:/AndroidStudioProjects/CaMelShot/app/.cxx/Debug/176w3io3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/CaMelShot/app/.cxx/Debug/176w3io3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/myProject_CAM/app/.cxx/Debug/2v4s2d5m/x86/CMakeFiles/yolov5ncnn.dir
+D:/AndroidStudioProjects/myProject_CAM/app/.cxx/Debug/2v4s2d5m/x86/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/myProject_CAM/app/.cxx/Debug/2v4s2d5m/x86/CMakeFiles/rebuild_cache.dir

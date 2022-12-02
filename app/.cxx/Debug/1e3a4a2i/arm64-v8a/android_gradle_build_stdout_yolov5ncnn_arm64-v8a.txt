@@ -1,0 +1,13 @@
+ninja: Entering directory `D:\AndroidStudioProjects\myProject_CAM\app\.cxx\Debug\1e3a4a2i\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+D:/AndroidStudioProjects/myProject_CAM/app/src/main/jni/yolov5ncnn_jni.cpp:585:82: warning: format specifies type 'int' but the argument has type 'std::__ndk1::vector<Object, std::__ndk1::allocator<Object> >::size_type' (aka 'unsigned long') [-Wformat]
+        __android_log_print(ANDROID_LOG_DEBUG, "YoloV5Ncnn", "%d objs detected", objects.size());
+                                                              ~~                 ^~~~~~~~~~~~~~
+                                                              %lu
+D:/AndroidStudioProjects/myProject_CAM/app/src/main/jni/yolov5ncnn_jni.cpp:618:76: warning: format specifies type 'int' but the argument has type 'std::__ndk1::vector<Object, std::__ndk1::allocator<Object> >::size_type' (aka 'unsigned long') [-Wformat]
+    __android_log_print(ANDROID_LOG_DEBUG, "YoloV5Ncnn", "%d objs picked", objects.size());
+                                                          ~~               ^~~~~~~~~~~~~~
+                                                          %lu
+2 warnings generated.
+[2/2] Linking CXX shared library D:\AndroidStudioProjects\myProject_CAM\app\build\intermediates\cxx\Debug\1e3a4a2i\obj\arm64-v8a\libyolov5ncnn.so

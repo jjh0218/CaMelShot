@@ -1,0 +1,10 @@
+# ninja log v5
+1	976	675615188	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	b6c9432bb929e59d
+979	1541	675615188	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/x86_64/libyolov5ncnn.so	d3978624b42b9df4
+0	35	0	clean	d763aa7a22fbb7dc
+0	34	0	clean	d763aa7a22fbb7dc
+3	993	675707641	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	b6c9432bb929e59d
+994	2327	675707643	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/x86_64/libyolov5ncnn.so	d3978624b42b9df4
+0	36	0	clean	d763aa7a22fbb7dc
+4	1040	675876425	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	b6c9432bb929e59d
+1040	2513	675876426	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/x86_64/libyolov5ncnn.so	d3978624b42b9df4

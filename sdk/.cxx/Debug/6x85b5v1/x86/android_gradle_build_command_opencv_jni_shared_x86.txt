@@ -1,0 +1,7 @@
+Executable : C:\Users\daeha\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\AndroidStudioProjects\CaMelShot\sdk\.cxx\Debug\6x85b5v1\x86
+opencv_jni_shared
+jvmArgs : 
+

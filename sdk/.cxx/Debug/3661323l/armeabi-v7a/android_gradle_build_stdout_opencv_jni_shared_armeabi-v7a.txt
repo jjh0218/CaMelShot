@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\android\CaMelShot\sdk\.cxx\Debug\3661323l\armeabi-v7a'
+ninja: no work to do.

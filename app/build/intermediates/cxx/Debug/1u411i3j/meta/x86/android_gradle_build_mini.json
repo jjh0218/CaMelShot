@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\x86\\lib\\cmake\\SPIRVTargets.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\android\\CaMelShot\\app\\.cxx\\Debug\\1u411i3j\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\android\\CaMelShot\\app\\.cxx\\Debug\\1u411i3j\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov5ncnn::@6890427a1f51a3e7e1df": {
+      "artifactName": "yolov5ncnn",
+      "abi": "x86",
+      "output": "E:\\android\\CaMelShot\\app\\build\\intermediates\\cxx\\Debug\\1u411i3j\\obj\\x86\\libyolov5ncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\30\\libvulkan.so"
+      ]
+    }
+  }
+}

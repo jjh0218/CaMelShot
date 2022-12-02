@@ -1,0 +1,5 @@
+# ninja log v5
+0	46	675179479	CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o	2cbf8b32b7a97b7e
+46	143	675179479	libopencv_jni_shared.a	436474931cffa764
+0	783	675182891	CMakeFiles/opencv_jni_shared.dir/D_/AndroidStudioProjects/myProject_CAM/app/src/main/jni/OpenCV/pca_detect.cpp.o	e6c76b1563b8f9c6
+785	1034	675182891	D:/AndroidStudioProjects/myProject_CAM/sdk/build/intermediates/cxx/Debug/121b30yy/obj/armeabi-v7a/libopencv_jni_shared.so	56fd6f02b9bb92fe

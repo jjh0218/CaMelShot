@@ -1,0 +1,51 @@
+{
+  "buildFiles": [
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "E:\\android\\CaMelShot\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\android\\CaMelShot\\app\\.cxx\\Debug\\1u411i3j\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\android\\CaMelShot\\app\\.cxx\\Debug\\1u411i3j\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov5ncnn::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "yolov5ncnn",
+      "output": "E:\\android\\CaMelShot\\app\\build\\intermediates\\cxx\\Debug\\1u411i3j\\obj\\arm64-v8a\\libyolov5ncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\30\\libvulkan.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\JJH\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+Executable : C:\Users\JJH\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+E:\android\CaMelShot\app\.cxx\Debug\1u411i3j\arm64-v8a
+yolov5ncnn
+jvmArgs : 
+

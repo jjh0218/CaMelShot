@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rect.xml.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\background_rect.xml"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_flash_off.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\flash_off.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_flash_on.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\flash_on.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_capture.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\capture.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_reverse.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\reverse.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_appicon.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_camera.png.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rounding.xml.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\drawable\\background_rounding.xml"
+    },
+    {
+        "merged": "E:\\android\\CaMelShot\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_camera.xml.flat",
+        "source": "E:\\android\\CaMelShot\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]

@@ -1,0 +1,23 @@
+# ninja log v5
+0	1498	675598721	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1500	2285	675598722	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+3	1328	675600096	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1328	2255	675600097	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+4	2155	675600260	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+2157	3161	675600261	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+4	1107	675601414	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1107	1821	675601415	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+0	36	0	clean	d763aa7a22fbb7dc
+4	1671	675615177	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1671	2872	675615179	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+0	34	0	clean	d763aa7a22fbb7dc
+3	1227	675694115	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1228	2077	675694116	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+0	37	0	clean	d763aa7a22fbb7dc
+10	1852	675702304	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1852	2903	675702305	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+4	1168	675706220	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1168	1855	675706220	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97
+0	37	0	clean	d763aa7a22fbb7dc
+4	1233	675876418	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a05e238067cfb804
+1233	2255	675876419	E:/android/CaMelShot/app/build/intermediates/cxx/Debug/1u411i3j/obj/arm64-v8a/libyolov5ncnn.so	61b35a1e4b069f97

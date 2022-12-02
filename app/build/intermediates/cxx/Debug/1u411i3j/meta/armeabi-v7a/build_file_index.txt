@@ -1,0 +1,12 @@
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\glslangTargets-release.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\glslangTargets.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\ncnn\ncnn-release.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\ncnn\ncnn.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\ncnn\ncnnConfig.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\OGLCompilerTargets-release.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\OGLCompilerTargets.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\OSDependentTargets-release.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\OSDependentTargets.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\SPIRVTargets-release.cmake
+E:\android\CaMelShot\app\src\main\jni\armeabi-v7a\lib\cmake\SPIRVTargets.cmake
+E:\android\CaMelShot\app\src\main\jni\CMakeLists.txt
